@@ -1,0 +1,29 @@
+h1{
+    font-family: kablammo, cursive;
+    text-align:center;
+    color: darkred;
+
+}
+a{font-family: kablammo, cursive;
+ font-size: 1.2em;
+ text-decoration: none;
+ transition: 0.5s;
+ color: darkred;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu-item{
+    background-color: rgb(185, 242, 244);
+    text-align: center;
+    margin: 3px;
+    padding: 10px;
+}
+a:hover{
+    letter-spacing: 5px;
+    text-shadow: 0px 0px 3px rgb(195, 162, 0) ;
+}
+img{
+    width: 80%;
+    margin: 20px;
+}
